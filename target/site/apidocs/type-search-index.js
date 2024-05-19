@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.jose.ac2logintdd","l":"LoginFrame"},{"p":"com.jose.ac2logintdd","l":"LoginScreen"}];updateSearchResults();
